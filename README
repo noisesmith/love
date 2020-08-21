@@ -1,0 +1,11 @@
+love is a feature complete bug free strongly typed programming language
+
+the only valid program in the language is love
+
+the love program contains the text "love", optional newline for convenience and nothing else
+
+if translations of the language and spec are provided, they will be included in optional branches if verified
+
+you are encouraged to fork love, but the only correct and bug free version known is the one provided here
+
+love is free to use and distribute, and is rumored to be good for your health
